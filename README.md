@@ -12,5 +12,5 @@ This project aims to create a responsive dashboard layout using HTML, CSS, and G
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-  https://puleng064.github.io/DailyHustle/
+  https://github.com/puleng064/DailyHustle.git
 
